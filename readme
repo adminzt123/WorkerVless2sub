@@ -10,7 +10,8 @@ ADDNOTLSAPI
 
 NOTLS true
 
-SUBCONFIG
+SUBCONFIG=https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini
+for - https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config
 
 
 
