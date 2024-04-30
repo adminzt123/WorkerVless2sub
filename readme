@@ -1,3 +1,6 @@
+优选订阅生成器-讲解篇 cmliu/WorkerVless2sub 实现原理 运行流程 全变量pages部署教程
+https://www.youtube.com/watch?v=p-KhFJAC4WQ&t=509s
+
 TOKEN auto sd123456
 HOST v0429.ibmforcloud.workers.dev
 UUID 6e2baf6d-3f98-4398-b485-01068f945969
@@ -13,12 +16,6 @@ NOTLS true
 SUBCONFIG=https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini
 for - https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config
 
-
-
-
-
-
-
 ADD
 cf.090227.xyz#优选官方线路
 
@@ -32,8 +29,6 @@ https://cnv6.xxxxxxxx.tk
 https://cuv6.xxxxxxxx.tk
 https://cmv6.xxxxxxxx.tk
 https://ctv6.xxxxxxxx.tk
-
-
 
 ADDNOTLS
 
@@ -89,7 +84,6 @@ www.iakeys.com
 www.d-555.com
 fbi.gov
 
-
 ADDNOTLSAPI
 
 https://ipdb.api.030101.xyz/?type=bestcf&country=true
@@ -98,16 +92,11 @@ https://ipdb.api.030101.xyz/?type=bestproxy&country=true
 https://addressesapi.090227.xyz/CloudFlareYes
 https://addressesapi.090227.xyz/cmcc-ipv6
 
-
-
 host=https://dingyueqi.mynameiszt.eu.org/
 uuid=6e2baf6d-3f98-4398-b485-01068f945969
 path=/?ed=2048
 
 https://dingyueqi.mynameiszt.eu.org//sub?host=v0429.ibmforcloud.workers.dev&uuid=6e2baf6d-3f98-4398-b485-01068f945969&path=/?ed=2048
-
-https://www.youtube.com/watch?v=p-KhFJAC4WQ&t=509s
-优选订阅生成器-讲解篇 cmliu/WorkerVless2sub 实现原理 运行流程 全变量pages部署教程
 
 Dingyueqi:
 https://dingyueqi.mynameiszt.eu.org/sd123456
